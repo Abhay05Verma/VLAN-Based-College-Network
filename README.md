@@ -1,5 +1,3 @@
-# VLAN-Based-College-Network
-A VLAN-based college network designed and configured in Cisco Packet Tracer. The project demonstrates VLAN segmentation for different departments, trunking between devices, and inter-VLAN communication using Router-on-a-Stick. It includes IP addressing, default gateway configuration, and connectivity testing between VLANs.
 # College VLAN Network Project
 
 This project demonstrates VLAN segmentation and inter-VLAN routing using Cisco Packet Tracer.
